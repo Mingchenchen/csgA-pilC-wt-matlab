@@ -1,0 +1,1 @@
+Original experimental pictures are uploaded to Dryad: doi:10.5061/dryad.1rn8pk0qc. There are 3 groups of experiments (csgA, pilC and WT). each group has 3 repeats. 
