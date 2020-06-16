@@ -1,6 +1,11 @@
 clear all
 close all
-
+addpath('..\src\Libraries\LAPTracker');
+addpath('..\src\Libraries\Utils');
+addpath('..\src\Libraries\DensityEstimation');
+addpath('..\src\Libraries\DensityEstimation');
+addpath('..\src\Libraries\TrajectoryAnalysis');
+addpath('..\src');
 CSGA_COLOR = [1 0 0];
 WT_COLOR = [0 0 1];
 PILC_COLOR=[0 0 0];

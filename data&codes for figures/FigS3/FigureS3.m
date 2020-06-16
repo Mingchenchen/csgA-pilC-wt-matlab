@@ -1,5 +1,11 @@
 close all
 clear all
+addpath('..\src\Libraries\LAPTracker');
+addpath('..\src\Libraries\Utils');
+addpath('..\src\Libraries\DensityEstimation');
+addpath('..\src\Libraries\DensityEstimation');
+addpath('..\src\Libraries\TrajectoryAnalysis');
+addpath('..\src');
 org_color=[0 0 1];
 rd_color=[1 0 0];
 blk=[0,0,0];
